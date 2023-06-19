@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "name": "'Arequipa'",
+        "channels": [
+            {
+                "name": "'Whatsapp'",
+                "href": "'https: //api.whatsapp.com/message/PBMS57WFM7NOL1'",
+            },
+            {
+                "name": "'Rappi'",
+                "href": "'https: //www.rappi.com.pe/restaurantes/39566-la-pipzza'",
+            },
+            {
+                "name": "'Pedidos Ya'",
+                "href": "'https: //www.pedidosya.com.pe/restaurantes/arequipa/la-pipzza-menu?search=la%20pipzza'"
+            }
+        ],
+        "cartaHref": "https://drive.google.com/file/d/1D5xWMlv2pJBKdDtJozQ-_0YkYkTxgIFx/view"
+    },
+    {
+        "id": 2,
+        "name": "'Lima'",
+        "channels": [
+            {
+                "name": "'Whatsapp Lima'",
+                "href": "'https: //api.whatsapp.com/message/PBMS57WFM7NOL1'",
+            },
+            {
+                "name": "'Rappi Lima'",
+                "href": "'https: //www.rappi.com.pe/restaurantes/39566-la-pipzza'",
+            },
+            {
+                "name": "'Pedidos Ya Lima'",
+                "href": "'https: //www.pedidosya.com.pe/restaurantes/arequipa/la-pipzza-menu?search=la%20pipzza'"
+            }
+        ],
+        "cartaHref": "https://drive.google.com/file/d/1D5xWMlv2pJBKdDtJozQ-_0YkYkTxgIFx/view"
+    }
+]
